@@ -1,10 +1,13 @@
-# Menjadi-Manusia
+# Menjadi Manusia
 
 Buku panduan menjadi manusia.
 
 ## Daftar Isi
 
-* [Pengantar](00-Pengantar.md)
+* [0. Pengantar](00-Pengantar.md)
+* [1. Diri](01-Diri.md)
+* [2. Sesama](02-Sesama.md)
+* [3. Semesta](03-Semesta.md)
 
 ## Lisensi
 
