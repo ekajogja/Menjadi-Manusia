@@ -21,7 +21,7 @@ Buku ini berisi telaah dan panduan mengenai hidup manusia dalam 3 (tiga) wilayah
 #### I. Wilayah Diri
 1. **Konsumsi**: manusia wajib *bernafas, makan, dan minum*
 2. **Ekskresi**: manusia wajib *membuang residu konsumsi*
-3. **Kreasi**: manusia wajib *bergerak dan berkarya*
+3. **Kreasi**: manusia wajib *bergerak (bekerja atau berkarya)*
 4. **Rekreasi**: manusia wajib *beristirahat*
 5. **Reproduksi**: manusia wajib *beranakpinak*
 

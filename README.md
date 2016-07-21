@@ -9,6 +9,12 @@ Buku panduan menjadi manusia.
 * [2. Sesama](02-Sesama.md)
 * [3. Semesta](03-Semesta.md)
 
+## Penyusun
+
+Konsep buku ini disusun oleh [ekajogja](https://github.com/ekajogja).
+
+Kontributor lainnya akan dituliskan di sini.
+
 ## Lisensi
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Lisensi Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ciptaan disebarluaskan di bawah <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Lisensi Creative Commons Atribusi-NonKomersial-BerbagiSerupa 4.0 Internasional</a>.
