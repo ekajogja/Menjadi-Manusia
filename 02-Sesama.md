@@ -9,7 +9,7 @@ Manusia wajib *saling bertukar pikiran*.
 
 ### 2.1.1. Mengapa komunikasi?
 
-...
+Untuk berbagi isi batin (pikiran dan perasaan), manusia harus berkomunikasi dengan sesama.
 
 ### 2.1.2. Komunikasi yang baik
 
@@ -22,7 +22,7 @@ Manusia wajib *saling tolong menolong*.
 
 ### 2.2.1. Mengapa kooperasi?
 
-...
+Untuk menjaga keselamatan diri dan memenuhi kebutuhannya, manusia harus saling bekerjasama satu sama lain.
 
 ### 2.2.2. Kooperasi yang baik
 
@@ -35,7 +35,7 @@ Manusia wajib *saling menjaga keakraban*.
 
 ### 2.3.1. Mengapa relasi?
 
-...
+Untuk memudahkan komunikasi dan kerjasama, manusia harus saling menjaga keakraban satu sama lain.
 
 ### 2.3.2. Relasi yang baik
 
@@ -48,7 +48,7 @@ Manusia wajib *saling menjaga kebebasan*.
 
 ### 2.4.1. Mengapa privasi?
 
-...
+Untuk menjaga kehormatan/martabat, manusia harus menjaga kebebasan dan privasi sesamanya.
 
 ### 2.4.2. Privasi yang baik
 
@@ -61,7 +61,7 @@ Manusia wajib *saling berbagi sumber daya*.
 
 ### 2.5.1. Mengapa distribusi?
 
-...
+Untuk mempertahankan relasi dan mencegah konflik kepentingan, manusia harus saling berbagi sumber daya.
 
 ### 2.5.2. Distribusi yang baik
 
