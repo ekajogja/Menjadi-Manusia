@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Tentang](README.md)
 * [Pendahuluan](chapter1.md)
 
