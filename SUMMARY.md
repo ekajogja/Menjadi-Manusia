@@ -4,5 +4,5 @@
 * [Pendahuluan](00-pendahuluan.md)
 * [Diri](01-diri.md)
 * [Sesama](02-sesama.md)
-* Semesta
+* [Semesta](03-semesta.md)
 
