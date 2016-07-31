@@ -1,3 +1,5 @@
-# Daftar Isi
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Pengantar](chapter1.md)
+
