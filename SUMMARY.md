@@ -2,5 +2,5 @@
 
 * [Tentang](README.md)
 * [Pendahuluan](chapter1.md)
-* Diri
+* [Diri](01-diri.md)
 
