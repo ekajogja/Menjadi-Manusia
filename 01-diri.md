@@ -13,6 +13,16 @@ Untuk bertahan hidup, tubuh manusia membutuhkan asupan oksigen (O<sub>2</sub>), 
 
 ### 1.1.2. Konsumsi yang baik
 
+#### 1.1.2.1. Bernafas
+
+...
+
+#### 1.1.2.1. Minum
+
+...
+
+#### 1.1.2.3. Makan
+
 ...
 ___
 
